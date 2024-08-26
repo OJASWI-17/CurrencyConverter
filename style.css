@@ -12,6 +12,7 @@ body{
     background-size: cover;
     background-position: center;
     display: flex;
+     
     align-items: center;
     justify-content: center;
  }
@@ -129,6 +130,8 @@ option{
     color: rgb(31, 6, 6);
     
 }
+ 
+
 @media only screen and (max-width:600px){
     .container{
         width:35vh;
@@ -141,4 +144,3 @@ option{
 
     }
 }
-
